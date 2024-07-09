@@ -7,10 +7,11 @@ We engage in diverse research centered around scientific and high-performance co
 * **Distributed computing:** managing computations across compute clusters or federated collections of cloud, high-performance computing, and edge systems.
 * **Research data management:** enabling reliable, efficient, and secure transfer, sharing, and discovery of large and distributed data.
 
-Check out some of our other active projects.
-* **Colmena** [[homepage](https://colmena.readthedocs.io/en/latest/) | [code](https://github.com/exalearn/colmena)]: Steering campaigns of simulations on supercomputers.
+Many of our active projects are hosted in other GitHub organizations, including:
+* **Colmena** [[homepage](https://colmena.readthedocs.io/en/latest/) | [code](https://github.com/exalearn/colmena)]: Steering campaigns of simulations on supercomputers
 * **Garden** [[homepage](https://thegardens.ai/) | [code](https://github.com/Garden-AI)]: A FAIR framework for publishing and applying AI models for translational research in science, engineering, education, and industry
-* **Globus Compute** [[homepage](https://www.globus.org/compute) | [code](https://github.com/globus/globus-compute)]: High-performance function serving for science
-* **FloX** [[code](https://github.com/h-flox)]: Hierarchical federated learning with Globus Compute
-* **Parsl** [[homepage](https://parsl-project.org/) | [code](https://github.com/parsl)]: Enabling easy parallelism on clusters, clouds and supercomputers.
-* **ProxyStore** [[homepage](https://docs.proxystore.dev/) | [code](https://github.com/proxystore)]: Facilitating efficient data management in distributed Python applications.
+* **Globus Compute** [[homepage](https://www.globus.org/compute) | [code](https://github.com/globus/globus-compute)]: High-performance function serving for science (previously called funcX)
+* **FLoX** [[code](https://github.com/h-flox)]: Hierarchical federated learning with Globus Compute
+* **Parsl** [[homepage](https://parsl-project.org/) | [code](https://github.com/parsl)]: Enabling easy parallelism on clusters, clouds and supercomputers
+* **ProxyStore** [[homepage](https://docs.proxystore.dev/) | [code](https://github.com/proxystore/proxystore)]: Facilitating efficient data management in distributed Python applications
+* **TaPS** [[homepage](https://taps.proxystore.dev/) | [code](https://github.com/proxystore/taps)]: Benchmarking suite for distributed/parallel task execution frameworks
